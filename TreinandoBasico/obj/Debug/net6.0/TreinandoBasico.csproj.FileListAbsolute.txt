@@ -1,0 +1,15 @@
+C:\Users\Alifd\source\repos\TreinandoBasico\TreinandoBasico\obj\Debug\net6.0\TreinandoBasico.csproj.AssemblyReference.cache
+C:\Users\Alifd\source\repos\TreinandoBasico\TreinandoBasico\obj\Debug\net6.0\TreinandoBasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alifd\source\repos\TreinandoBasico\TreinandoBasico\obj\Debug\net6.0\TreinandoBasico.AssemblyInfoInputs.cache
+C:\Users\Alifd\source\repos\TreinandoBasico\TreinandoBasico\obj\Debug\net6.0\TreinandoBasico.AssemblyInfo.cs
+C:\Users\Alifd\source\repos\TreinandoBasico\TreinandoBasico\obj\Debug\net6.0\TreinandoBasico.csproj.CoreCompileInputs.cache
+C:\Users\Alifd\source\repos\TreinandoBasico\TreinandoBasico\bin\Debug\net6.0\TreinandoBasico.exe
+C:\Users\Alifd\source\repos\TreinandoBasico\TreinandoBasico\bin\Debug\net6.0\TreinandoBasico.deps.json
+C:\Users\Alifd\source\repos\TreinandoBasico\TreinandoBasico\bin\Debug\net6.0\TreinandoBasico.runtimeconfig.json
+C:\Users\Alifd\source\repos\TreinandoBasico\TreinandoBasico\bin\Debug\net6.0\TreinandoBasico.dll
+C:\Users\Alifd\source\repos\TreinandoBasico\TreinandoBasico\bin\Debug\net6.0\TreinandoBasico.pdb
+C:\Users\Alifd\source\repos\TreinandoBasico\TreinandoBasico\obj\Debug\net6.0\TreinandoBasico.dll
+C:\Users\Alifd\source\repos\TreinandoBasico\TreinandoBasico\obj\Debug\net6.0\refint\TreinandoBasico.dll
+C:\Users\Alifd\source\repos\TreinandoBasico\TreinandoBasico\obj\Debug\net6.0\TreinandoBasico.pdb
+C:\Users\Alifd\source\repos\TreinandoBasico\TreinandoBasico\obj\Debug\net6.0\TreinandoBasico.genruntimeconfig.cache
+C:\Users\Alifd\source\repos\TreinandoBasico\TreinandoBasico\obj\Debug\net6.0\ref\TreinandoBasico.dll
